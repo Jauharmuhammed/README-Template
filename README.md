@@ -1,6 +1,5 @@
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/jauharmuhammed/README-template">
     <img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/github-logo.svg" alt="Logo" width="80" height="80" border-radius="50%">
@@ -9,10 +8,9 @@
   <h3 align="center">Title</h3>
 
   <p align="center">
-    Project Discription
+    Short Discription of the Project
     <br />
     <a href="https://github.com/jauharmuhammed/README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/jauharmuhammed/README-Template">View Site</a>
     ·
